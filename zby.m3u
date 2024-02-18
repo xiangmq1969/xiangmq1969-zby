@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13标清
+#EXTINF:-1 group-title="央视IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13标清
 http://103.130.141.67:81/live/15/playlist.m3u8
 
 #EXTINF:-1 group-title="央视IPV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png",CCTV5
