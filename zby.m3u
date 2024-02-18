@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视IPV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png",CCTV13标清
+http://103.130.141.67:81/live/15/playlist.m3u8
+
 #EXTINF:-1 group-title="央视IPV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png",CCTV5
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 
