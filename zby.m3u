@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13标清
-http://103.130.141.67:81/live/15/playlist.m3u8
+#EXTINF:-1 group-title="央视IPV6" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13声音
+https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 
 #EXTINF:-1 group-title="央视IPV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png",CCTV5
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226395/1.m3u8
@@ -16,6 +16,9 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888888/224/3
 
 #EXTINF:-1 group-title="央视IPV6" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png",风云足球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226984/index.m3u8
+
+#EXTINF:-1 group-title="央视IPV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png",CCTV13
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
 
 #EXTINF:-1 group-title="卫视IPV6" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
