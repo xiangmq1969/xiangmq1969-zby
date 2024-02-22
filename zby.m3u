@@ -1,48 +1,12 @@
 #EXTM3U
-#EXTINF:-1 ,Unknown_5
-http://api.52tb.xyz/info?id=20&token=20221028cxyi
-#EXTINF:-1 ,Unknown_6
-http://api.52tb.xyz/info?id=71&token=20221028cxyi
-#EXTINF:-1 ,Unknown_7
-http://api.52tb.xyz/info?id=122&token=20221028cxyi
-#EXTINF:-1 ,Unknown_8
-http://api.52tb.xyz/info?id=20&token=20221119bigs
-#EXTINF:-1 ,Unknown_9
-http://api.52tb.xyz/info?id=71&token=20221119bigs
-#EXTINF:-1 ,Unknown_10
-http://api.52tb.xyz/info?id=122&token=20221119bigs
-#EXTINF:-1 ,Unknown_11
-http://api2.52tb.xyz/info?id=20&token=20230215crnyqz
-#EXTINF:-1 ,Unknown_12
-http://api2.52tb.xyz/info?id=71&token=20230215crnyqz
-#EXTINF:-1 ,Unknown_13
-http://api2.52tb.xyz/info?id=122&token=20230215crnyqz
-#EXTINF:-1 ,Unknown_14
-http://api2.52tb.xyz/info?id=71&token=20230218zdxlqr
-#EXTINF:-1 ,Unknown_15
-http://api3.52tb.xyz/info?id=20&token=20221127jxwhhemby
-#EXTINF:-1 ,Unknown_16
-http://api2.52tb.xyz/info?id=20&token=20230218qkyjia
-#EXTINF:-1 ,Unknown_17
-http://api2.52tb.xyz/info?id=20&token=20230305eptdaz
 #EXTINF:-1 ,Unknown_21
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 ,Unknown_22
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 ,Unknown_24
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8,
-#EXTINF:-1 ,Unknown_27
-http://wd.shadowzen.xyz/tvphp/cqyx2.php?id=fyzqHD
-#EXTINF:-1 ,Unknown_28
-http://api3.52tb.xyz/info?id=20&token=20230226bgyszp
-#EXTINF:-1 ,Unknown_29
-http://api3.52tb.xyz/info?id=71&token=20230226bgyszp
-#EXTINF:-1 ,Unknown_32
-http://api3.52tb.xyz/info?id=20&token=20230402fxrjwi
-#EXTINF:-1 ,Unknown_33
-http://api3.52tb.xyz/info?id=71&token=20230402fxrjwi
 #EXTINF:-1 ,Unknown_37
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,Unknown_44
 http://[2409:8087:7001:20:2::2]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 #EXTINF:-1 ,Unknown_45
@@ -53,8 +17,6 @@ http://[2409:8087:7001:20:2::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,Unknown_48
 http://[2409:8087:7001:20:1000::91]:6610/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,Unknown_49
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,Unknown_50
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJz5anxUFgyS6MrkLezPQZm9JL%2Bv9RrHWJTagMmnVYzpeQ%2FU0oiypeROXP7q2riYic
 #EXTINF:-1 ,Unknown_53
@@ -65,8 +27,6 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 ,Unknown_56
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226984/index.m3u8?/TVOD/.smil
-#EXTINF:-1 ,Unknown_57
-http://api2.52tb.xyz/info?id=20&token=20230405tndmhg
 #EXTINF:-1 ,Unknown_64
 http://61.136.172.236:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 ,Unknown_65
