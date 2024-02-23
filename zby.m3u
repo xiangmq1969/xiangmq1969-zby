@@ -17,10 +17,6 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888888/224/3
 
 #EXTINF:-1 group-title="央视IPV6" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png",风云足球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226984/index.m3u8
-#EXTINF:-1 group-title="央视IPV6" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png",风云足球1
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="央视IPV6" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png",风云足球2
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226984/index.m3u8
 
 #EXTINF:-1 group-title="央视IPV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png",CCTV13
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
