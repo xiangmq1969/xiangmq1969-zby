@@ -4,8 +4,6 @@
 http://64.140.167.170:8080/live/CCTV5/hls.m3u8
 
 #EXTINF:-1 group-title="央视IPV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV5+.png",CCTV5+
-http://43.141.130.33/fjnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv5hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="央视IPV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV5+.png",CCTV5+
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?IAS
 
 #EXTINF:-1 group-title="央视IPV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png",CCTV6
