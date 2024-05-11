@@ -1,19 +1,19 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png",CCTV5
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.eu.org/logo/CCTV5+.png",CCTV5+
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
+http://[2409:8087:1a01:df::4077]:80/TVOD/88888888/224/3221225507/index.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png",CCTV6
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png",CCTV8
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png",CCTV13
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png",风云足球
 http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
