@@ -16,14 +16,23 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png",风云足球
-http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.eu.org/logo/足球频道.png",足球频道
-https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+http://59.62.8.250:9901/tsfile/live/0108_1.m3u8
 
 #EXTINF:-1 ,Unknown_1
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 ,Unknown_2
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 ,Unknown_3
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 ,Unknown_4
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 ,Unknown_5
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 ,Unknown_6
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 ,Unknown_7
+https://live.iptvxxx.net/hustlertv.m3u8
+#EXTINF:-1 ,Unknown_8
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 ,Unknown_9
+https://live.iptvxxx.net/penthousepassiontv.m3u8
